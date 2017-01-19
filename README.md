@@ -1,5 +1,28 @@
-# Deinopis_2017
+---
+output: pdf_document
+---
+# 2017 Deinopis Notebook
 
-### Table of contents for 2 entries (Format is *Page: Date(with year-month-day). Title*)        
+### Author: Lisa Chamberland
+### Affiliation: Department of Biology, University of Vermont   
+### Contact: chamberlandlisa8@gmail.com   
+
+### Date started: 2017-01-18    
+### Date end (last modified): 2017-01-19    
+
+
+**Introduction:**
+I am using this space to record progress on my thesis on *Deinopis*, aka. "ogre-faced" or "net-casting" spider.
+
+### Table of Contents (Format is *Page: Date(with year-month-day). Title*)        
 * [Page 1: 2017-01-18](#id-section1). Overview/background
 * [Page 2: 2017-01-19](#id-section2). Primers
+
+------
+<div id='id-section1'/>
+
+
+------
+<div id='id-section2'/>
+### Page 2: 2016-06-16 title 
+------
