@@ -20,10 +20,10 @@ I am using this space to record progress on my thesis on *Deinopis*, aka the "og
 
 ------
 <div id='id-section1'/>
-### Page 1:
+### Page 1: 2017-01-18
 test 
 
 ------
 <div id='id-section2'/>
-### Page 2: 2016-06-16 title 
+### Page 2: 2016-01-18 title 
 ------
