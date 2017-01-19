@@ -16,14 +16,20 @@ I am using this space to record progress on my thesis on *Deinopis*, aka the "og
 
 ### Table of Contents (Format is *Page: Date(with year-month-day). Title*)        
 * [Page 1: 2017-01-18](#id-section1). Island biogeography
-* [Page 2: 2017-01-19](#id-section2). Primers
+* [Page 2: 2017-01-19](#id-section2). Natural history of *Deinopis* 
+* [Page 3: 2017-01-19](#id-section3). Primers
 
 ------
 <div id='id-section1'/>
-### Page 1: 2017-01-18
+### Page 1: 2017-01-18 Island Biogeography
 test 
 
 ------
 <div id='id-section2'/>
-### Page 2: 2016-01-18 title 
+### Page 2: 2016-01-18 Natural history of *Deinopis*
+------
+
+------
+<div id='id-section3'/>
+### Page 2: 2016-01-19 Primers
 ------
