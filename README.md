@@ -12,7 +12,7 @@ output: pdf_document
 
 
 **Introduction:**
-I am using this space to record progress on my thesis on *Deinopis*, aka. "ogre-faced" or "net-casting" spider.
+I am using this space to record progress on my thesis on *Deinopis*, aka the "ogre-faced" or "net-casting" spider.
 
 ### Table of Contents (Format is *Page: Date(with year-month-day). Title*)        
 * [Page 1: 2017-01-18](#id-section1). Overview/background
@@ -20,7 +20,8 @@ I am using this space to record progress on my thesis on *Deinopis*, aka. "ogre-
 
 ------
 <div id='id-section1'/>
-
+### Page 1:
+test 
 
 ------
 <div id='id-section2'/>
