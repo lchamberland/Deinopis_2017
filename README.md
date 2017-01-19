@@ -15,7 +15,7 @@ output: pdf_document
 I am using this space to record progress on my thesis on *Deinopis*, aka the "ogre-faced" or "net-casting" spider.
 
 ### Table of Contents (Format is *Page: Date(with year-month-day). Title*)        
-* [Page 1: 2017-01-18](#id-section1). Overview/background
+* [Page 1: 2017-01-18](#id-section1). Island biogeography
 * [Page 2: 2017-01-19](#id-section2). Primers
 
 ------
